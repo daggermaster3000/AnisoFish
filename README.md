@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/0901b5ed-e88c-408c-8632-6503b47367cc)
+
 # AnisoFish
 Code for quantifying zebrafish muscle fiber anisotropy, using the 2D WTMM method.
 ## Usage
